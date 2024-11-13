@@ -1,0 +1,3 @@
+Best number of units: 192
+Best hidden units: 64
+Best learning rate: 0.0004421705791459621
